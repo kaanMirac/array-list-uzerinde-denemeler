@@ -1,0 +1,1 @@
+# array list üzerinde denmeler
